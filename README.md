@@ -1,2 +1,2 @@
-# Adruino-Temp-Humidity-Logger
-Adruino Temperature and Humidity Logger
+# Arduino-Temp-Humidity-Logger
+Arduino Temperature and Humidity Logger
